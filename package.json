@@ -1,0 +1,22 @@
+{
+  "name": "vueuse-nuxt-issue",
+  "scripts": {
+    "dev": "nuxi dev"
+  },
+  "dependencies": {
+    "@vueuse/core": "10.8.0",
+    "@vueuse/nuxt": "10.8.0",
+    "core-js": "^3.35.1",
+    "nuxt": "^2.17.3",
+    "vue": "^2.7.16"
+  },
+  "devDependencies": {
+    "@nuxt/bridge": "^3.0.1",
+    "@nuxt/types": "^2.17.3",
+    "@vue/eslint-config-typescript": "^12.0.0",
+    "consola": "^3.2.3",
+    "defu": "^6.1.4",
+    "hookable": "^5.5.3",
+    "nuxi": "^3.10.1"
+  }
+}
